@@ -1,0 +1,140 @@
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.Cache
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\Usuario\Source\Repos\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojResolveAssemblyReference.cache
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.cache
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CopyComplete
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\bin\Debug\MySql.Data.dll
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Mensagem.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MySql.Data.dll
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojResolveAssemblyReference.cache
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Mensagem.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.cache
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CopyComplete
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.CadastarFunc.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaFunc.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.CadastarFunc.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaFunc.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Mensagem.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.FuncCadastrados.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaRem.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemBranco.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagenSucesso.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MySql.Data.dll
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojAssemblyReference.cache
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.CadastarFunc.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaFunc.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaRem.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.FuncCadastrados.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Mensagem.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemBranco.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagenSucesso.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.cache
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CopyComplete
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.CadastarFunc.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaFunc.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaRem.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.FuncCadastrados.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Mensagem.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemBranco.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagenSucesso.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemEditadoSucesso.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemLimite.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.RetiradoComSucesso.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe.config
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.exe
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\FarmaDrop.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.dll
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MySql.Data.dll
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\bin\Debug\MyImageButton.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.CadastarFunc.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaFunc.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.EntradaSaidaRem.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.FuncCadastrados.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Mensagem.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemBranco.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemEditadoSucesso.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagemLimite.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.MensagenSucesso.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Principal.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Login.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Properties.Resources.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.RetiradoComSucesso.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.GenerateResource.cache
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CoreCompileInputs.cache
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csproj.CopyComplete
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.exe
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Atendente.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.Atendente.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\FarmaDrop\obj\Debug\FarmaDrop.csprojResolveAssemblyReference.cache

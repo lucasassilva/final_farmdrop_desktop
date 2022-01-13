@@ -1,0 +1,56 @@
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.Cache
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\Usuario\Source\Repos\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\LASilva-inf171\Desktop\icones\icones\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\LASilva-inf171\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\Usuario\Desktop\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojAssemblyReference.cache
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\JPMCia-inf171\Desktop\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\JPMCia-inf171\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\Usuario\Desktop\TCC (2)\TCC\TCC\FarmaDrop\FarmaDrop\MyImageButton\obj\Debug\MyImageButton.pdb

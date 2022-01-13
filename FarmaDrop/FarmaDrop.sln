@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaDrop", "FarmaDrop\FarmaDrop.csproj", "{B895EA84-AD26-4A31-8AA3-18B2D6365103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyImageButton", "MyImageButton\MyImageButton.csproj", "{F4B013ED-3A53-4E8C-982E-019E9549AF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B895EA84-AD26-4A31-8AA3-18B2D6365103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B895EA84-AD26-4A31-8AA3-18B2D6365103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B895EA84-AD26-4A31-8AA3-18B2D6365103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B895EA84-AD26-4A31-8AA3-18B2D6365103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B013ED-3A53-4E8C-982E-019E9549AF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B013ED-3A53-4E8C-982E-019E9549AF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B013ED-3A53-4E8C-982E-019E9549AF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B013ED-3A53-4E8C-982E-019E9549AF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65414A56-56CD-40A1-AAB0-F3AC64AEE2CE}
+	EndGlobalSection
+EndGlobal
